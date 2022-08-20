@@ -5,8 +5,8 @@ Furnizorii aprovizionează depozitul cu produse pe baza unor facturi, produsele 
 
 
 *TEHNOLOGIILE UTILIZATE:* <br />
-֍ Limbajul de programare – SQL <br />
-֍ Mediul de dezvoltare – Oracle APEX <br />
+֍ Limbajul de programare – **SQL** <br />
+֍ Mediul de dezvoltare – **Oracle APEX** <br />
 
 *CERINȚE:* <br />
 ֍ Schema conceptuală pentru modelarea temei alese <br />
