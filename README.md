@@ -13,7 +13,7 @@ Furnizorii aprovizionează depozitul cu produse pe baza unor facturi, produsele 
 ֍ Construirea bazei de date – tabele și restricții de integritate. Exemplificarea operațiilor LDD (CREATE, ALTER, DROP) asupra tabelelor <br />
 ֍ Operații de actualizare a datelor: INSERT, UPDATE, DELETE, MERGE <br />
 ֍ Interogări cât mai variate și relevante pentru tema aleasă care să combine următoarele elemente: <br />
-+ >, <, >=, <=, !=, IS NULL, LIKE, IN, BETWEEN; <br />
++  >, <, >=, <=, !=, IS NULL, LIKE, IN, BETWEEN; <br />
 + joncţiuni (inner, outer); <br />
 + utilizarea funcțiilor de grup, GROUP BY, HAVING; <br />
 + utilizarea funcțiilor la nivel de rând (obligatoriu: TO_CHAR, TO_DATE, EXTRACT, SUBSTR, SYSDATE, DECODE, CASE, NVL); <br />
