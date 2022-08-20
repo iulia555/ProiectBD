@@ -1,6 +1,6 @@
 # GESTIUNEA UNUI MAGAZIN DE PRODUSE COSMETICE - PROIECT BAZE DE DATE
 
-A fost creată o bază de date care să țină evidența tuturor activităților care au loc în magazinul de cosmetice. S-a pus accentul pe subiecte mai importante ale procesului economic, ajungând astfel la următoarele tabele: Angajați, Clienți, Comezi, Produse, Funcții, Facturi, Depozit.
+A fost creată o **bază de date** care să țină evidența tuturor activităților care au loc în magazinul de cosmetice. S-a pus accentul pe subiecte mai importante ale procesului economic, ajungând astfel la următoarele tabele: Angajați, Clienți, Comezi, Produse, Funcții, Facturi, Depozit.
 Furnizorii aprovizionează depozitul cu produse pe baza unor facturi, produsele sunt stocate în depozit și mai apoi vândute clienților prin comenzi preluate de angajați.
 
 
