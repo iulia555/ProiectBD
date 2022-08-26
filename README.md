@@ -8,7 +8,7 @@ Furnizorii aprovizionează depozitul cu produse pe baza unor facturi, produsele 
 ֍ Limbajul de programare – **SQL** <br />
 ֍ Mediul de dezvoltare – **Oracle APEX** <br />
 
-*CERINȚE:* <br />
+*CERINȚELE PROIECTULUI:* <br />
 ֍ Schema conceptuală pentru modelarea temei alese <br />
 ֍ Construirea bazei de date – tabele și restricții de integritate. Exemplificarea operațiilor LDD (CREATE, ALTER, DROP) asupra tabelelor <br />
 ֍ Operații de actualizare a datelor: INSERT, UPDATE, DELETE, MERGE <br />
